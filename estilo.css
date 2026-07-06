@@ -1,0 +1,15 @@
+header {
+    background-color: #183C63;
+    color: #FFFFFF;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+    display: flex;
+}
+
+img {
+    display: flex;
+    width: 80px;
+    height: 80px;
+}
